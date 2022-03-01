@@ -1,0 +1,55 @@
+.container1 {
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+  margin: 0;
+  background-color:black;
+}
+.input1 {
+  color: white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: min-content;
+  margin-left: 25%;
+}
+.input1:hover {
+  background-color: white;
+  border: 1px solid rgb(134, 54, 16);
+}
+
+.color {
+  color: white !important;
+}
+h4 {
+  color: rgb(134, 54, 16) !important;
+  font-family: "Inconsolata", monospace;
+  margin-left: 20px;
+  padding:20px;
+}
+.color1 {
+  color: rgb(134, 54, 16) !important;
+  font-family: "Inconsolata", monospace;
+}
+.botonLogin {
+  background-color: rgb(134, 54, 16);
+  margin-top: 10px;
+  font-family: "Inconsolata", monospace;
+}
+.botonLogin:hover {
+  background-color: orangered;
+  margin-top: 10px;
+  font-family: "Inconsolata", monospace;
+}
+.google-icon-wrapper {
+  margin: 10px;
+  border: 2px;
+}
+
+.plato {
+  position: absolute;
+  top: 650px;
+  right: 60px;
+  width: 30vw;
+  border-radius:2px rgba(134, 53, 16, 0.281)
+}

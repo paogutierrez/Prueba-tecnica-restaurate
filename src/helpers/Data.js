@@ -1,0 +1,1 @@
+export const endPoint = "https://recipe-rissoto.vercel.app/recipe"

@@ -1,0 +1,36 @@
+.menu{
+    background-color: black;
+}
+.item{
+text-decoration: none;
+color:white !important;
+align-items:  right !important;
+font-family: 'Inconsolata', monospace;;
+font-size:1 em;
+margin-left:10px;
+margin-right: 10px;
+}
+.item:hover{
+    text-decoration: none;
+    color:rgb(134, 54, 16) !important;
+    padding:5px;
+    border-radius: 6px;
+    margin-left:10px;
+    margin-right: 10px;
+}
+.item1{
+    text-decoration: none;
+    color:white !important;
+    align-items:  right !important;
+    font-family: 'Inconsolata', monospace;;
+    font-size:1em;
+    background-color: rgb(134, 54, 16);
+    border-radius: 6px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:5px;
+}
+.item1:hover{
+    background-color:orangered;
+    padding:5px;
+}

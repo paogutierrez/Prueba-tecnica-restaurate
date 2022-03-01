@@ -1,0 +1,17 @@
+.plato1{
+  position: absolute;
+  top: 650px;
+  right: 60px;
+  width: 30vw;
+  border-radius:2px rgba(134, 53, 16, 0.281)
+}
+.container2{
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+    background-color:black;
+}
+.input1{
+  color:black;
+}
